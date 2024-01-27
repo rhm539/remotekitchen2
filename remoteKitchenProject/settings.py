@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     #
     'dashboard.apps.DashboardConfig',
     'accounts.apps.AccountsConfig',
+    'Restaurant',
     #
     'allauth',
     'allauth.account',
